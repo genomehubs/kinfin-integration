@@ -22,7 +22,7 @@ Analysing how gene families evolve is key to many large scale projects in phylog
 
 ### Refactoring KinFin
 
-This project will develop a fork of [KinFin](https://github.com/DRL/kinfin) with the aim of refactoring the output code, in particular to make it more compatible with web-based systems. A single KinFin run currently generates a large number of static images and files. A goal of this project is to refactor the code to produce JSON output files that can be rendered in a web-based system. A pull request will be submitted to the main repository once the refactoring is complete.
+This project will develop a fork of [KinFin](https://github.com/DRL/kinfin) with the aim of refactoring the output code, in particular to make it more compatible with web-based systems. A single KinFin run currently generates a large number of static images and files. A goal of this project is to refactor the code to produce JSON output files that can be rendered in a web-based system. This will also provide an opportunity to extend the code to parse additional clustering outputs. A pull request will be submitted to the main repository once the refactoring is complete.
 
 ### KinFin as a Service
 
